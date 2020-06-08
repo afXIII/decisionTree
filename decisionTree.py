@@ -1,6 +1,5 @@
 ##Ali Farahmand
-##CS365
-##Lab C - DecisionTree
+##DecisionTree
 
 import sys
 import math

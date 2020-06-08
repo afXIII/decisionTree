@@ -9,9 +9,13 @@ Make sure your tab delimited text file is in the same folder as decisionTree2.py
 Run the below bash code in your command line.
 
 ```bash
-python3 decisionTree2.py filename
+python3 decisionTree.py {filename}
 ```
-where filename is the full name of your text file. Example: python3 decisionTree2.py tennis.txt
+where {filename} is the full name of your text file. Example: 
+
+```bash
+python3 decisionTree.py tennis.txt
+```
 
 ## Output
 
